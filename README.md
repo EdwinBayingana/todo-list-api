@@ -1,2 +1,2 @@
-# todo_list_with_typescript
+# TyoeScript ToDo api
 This is a sample CRUD API built with TypeScript and Postgres database.
